@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+thead{
+	background:red;
+}
+table tr#s{
+	background:indianred;
+	color:white;
+}
+table tr#u{
+	background:palevioletred;
+	color:white;
+}
+
+table tr#j{
+	background:lightblue;	
+	}
+
+
